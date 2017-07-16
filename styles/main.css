@@ -1,5 +1,21 @@
-body{
-  background:grey;
-  font-family: sans-serif;
+body {
+  background:Grey;
+  font-family: Arial;
+}
 
+header{
+  background: white ;
+  padding: 20px;
+}
+
+a {
+  color: grey;
+  padding-right: 10px;
+
+}
+
+p {
+  background: white;
+  color: grey;
+  padding: 10px;
 }
