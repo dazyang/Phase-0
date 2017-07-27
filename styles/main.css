@@ -11,21 +11,31 @@ body{
     background-color: blue;
     color: white;
     padding: 20px;
+    height: auto;
+    width: 200px;
+    float: left;
 }
 
 .place_logo{
     border-width: thin;
     border-color: white;
     border-style: solid;
-    width: 200px;
+}
+
+.navigation{
+    background-color: white;
+    padding: 20px;
 }
 
 .project_links{
+    background-color: blue;
     border-width: thin;
-    border-color: white;
+    border-color: blue;
     border-style: solid;
     width: 100px;
     text-align: center;
+    margin: auto;
+    margin-top: 20px;
 }
 
 .project_showcase{
@@ -45,6 +55,6 @@ body{
     color: white;
 }
 
-footer{
+.contact{
     background-color: green;
 }
