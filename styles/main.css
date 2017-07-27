@@ -1,0 +1,50 @@
+body{
+    background-color: white;
+}
+
+.top_container{
+    background-color: black;
+    color: white;
+}
+
+.main_head{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+
+.place_logo{
+    border-width: thin;
+    border-color: white;
+    border-style: solid;
+    width: 200px;
+}
+
+.project_links{
+    border-width: thin;
+    border-color: white;
+    border-style: solid;
+    width: 100px;
+    text-align: center;
+}
+
+.project_showcase{
+    background-color: grey;
+    padding: 20px;
+}
+
+.project_image{
+    background-color: white;
+    border-width: thin;
+    border-color: black;
+    border-style: solid;
+}
+
+.project_description{
+    background-color: black;
+    color: white;
+}
+
+footer{
+    background-color: green;
+}
