@@ -2,59 +2,116 @@ body{
     background-color: white;
 }
 
+
 .top_container{
-    background-color: black;
-    color: white;
+    color: black;
+    height: 50px;
+    position: relative;
+    margin: auto;
+    margin-bottom: 10px;
+    border-bottom: solid;
+    border-width: thin;
+
 }
 
-.main_head{
-    background-color: blue;
-    color: white;
+.getintouch{
+    font-size: 0.8em;
+    float: right;
     padding: 20px;
-    height: auto;
-    width: 200px;
+}
+
+.middle_container{
+    position: relative;
+    width:  auto;
+    height: 700px;
+    margin: auto;
+}
+
+
+.sidebar{
+    border-width: thin;
+    border-color: black;
+    border-style: solid;
+    color: black;
+    width: 160px;
+    height: 680px;
+    padding: 10px;
     float: left;
 }
 
 .place_logo{
     border-width: thin;
-    border-color: white;
-    border-style: solid;
+    border-color: black;
+    border-style: dashed;
+    height: 280px;
+
 }
 
 .navigation{
-    background-color: white;
-    padding: 20px;
+    border-width: thin;
+    border-color: black;
+    border-style: dashed;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
 }
 
 .project_links{
-    background-color: blue;
     border-width: thin;
     border-color: blue;
     border-style: solid;
     width: 100px;
     text-align: center;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .project_showcase{
     background-color: grey;
-    padding: 20px;
-}
+    background-image: url('https://s3.amazonaws.com/img.aasd.com.au/40430381.jpg');
+    position: static;
+    height: 700px;
+    margin-left: 190px;
 
-.project_image{
-    background-color: white;
-    border-width: thin;
-    border-color: black;
-    border-style: solid;
 }
 
 .project_description{
     background-color: black;
     color: white;
+    float: right;
+    width: 200px;
+    height: 510px;
+    padding: 20px;
+    margin-top: 150px;
 }
 
-.contact{
-    background-color: green;
+.Blog_container{
+    border-width: thin;
+    border-color: blue;
+    border-style: solid;
+    position: static;
+    height: 700px;
+    margin-left: 190px;
+
+}
+
+.Blog_post{
+    border-width: medium;
+    border-color: blue;
+    border-style: solid;
+    color: black;
+    height: 600px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.copyright{
+    font-size: 0.8em;
+    text-align: right;
+}
+
+footer{
+    background-color: #4d85a5;
+    padding: 20px;
+    color: White;
 }
