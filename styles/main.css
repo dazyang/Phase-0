@@ -10,13 +10,12 @@ a{
     color: white;
 }
 
-p{
-    color: #4d85a5;
-}
-
 p.answer{
+    color: #4d85a5;
     border-left: solid 1px;
     padding-left: 5px;
+    font-size: 0.85em;
+    line-height: 1.5em;
 }
 
 .banner_top{
