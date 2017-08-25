@@ -143,6 +143,27 @@ ul{
     margin-left: 20px;
 }
 
+#receiveQuote{
+    width: 50%;
+    height: 200px;
+    background-color: #4d85a5;
+    padding: 10px;
+    margin: auto;
+
+}
+
+#pressBtn{
+    width: 200px;
+
+    background-color: white;
+    margin-top: 10px;
+
+}
+
+
+
+
+
 .copyright{
     font-size: 0.8em;
     text-align: right;
