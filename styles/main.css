@@ -70,8 +70,6 @@ p.answer{
     margin-top: 1%;
 }
 
-
-
 .sprint_links{
     background-color: #9a9fa8;
     color: white;
@@ -79,14 +77,6 @@ p.answer{
     padding: 10px;
     width:100px;
 }
-
-
-
-/* @media (min-width: 550px) {
-    .project_content,.blog_container{
-        height: 740px;
-    }
-} */
 
 .sprint_tasks{
     background-color: #4d85a5;
@@ -143,26 +133,40 @@ ul{
     margin-left: 20px;
 }
 
-#receiveQuote{
-    width: 50%;
-    height: 200px;
+.quoteBox{
+    width: 90%;
+    color: white;
     background-color: #4d85a5;
     padding: 10px;
     margin: auto;
+}
 
+.boxTitle{
+    font-weight: bold;
+
+}
+
+#receiveProverb{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#transProverb{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    margin: auto;
 }
 
 #pressBtn{
-    width: 200px;
-
+    width: 150px;
     background-color: white;
-    margin-top: 10px;
+    margin-top: 20px;
 
 }
-
-
-
-
 
 .copyright{
     font-size: 0.8em;
